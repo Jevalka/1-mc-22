@@ -3,12 +3,11 @@
     box-sizing: border-box;
 }
 
-h1, h2{
+p{
     margin: 5px;
     padding: 5px 10px;
 }
 
-header{
-    height: 11vh;
-    padding: 5px;
+body{
+    font-family: Serif;
 }
